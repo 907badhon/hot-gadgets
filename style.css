@@ -1,0 +1,58 @@
+.container{
+    padding-bottom: 40px;
+}
+.first-category p{
+    color: rgb(168, 155, 199);
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.first-category img{
+    width: 100px;
+}
+.first-category h1{
+    padding-bottom: 20px;
+}
+.first-category .col-md-7{
+    background-image: url(/bg-1.png);
+    background-repeat: no-repeat;
+}
+.phone p{
+    font-size: 30px;
+}
+.phone-card{
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px 10px 15px lightgray;
+}
+.laptop p{
+    font-size: 30px;
+}
+.categories h1{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.beauty{
+    box-shadow: 5px 5px 10px lightgrey;
+    height: 250px;
+    width: 250px;
+    margin: 40px 20px;
+    padding: 40px;
+}
+.shoes{
+    box-shadow: 5px 5px 10px lightgrey;
+    height: 250px;
+    width: 250px;
+    margin: 40px 20px;
+    padding: 40px;
+}
+.bag{
+    box-shadow: 5px 5px 10px lightgrey;
+    height: 250px;
+    width: 250px;
+    padding: 60px;
+}
+.card{
+    border: none;
+    padding: 20px;
+}
